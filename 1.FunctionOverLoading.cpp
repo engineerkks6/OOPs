@@ -25,6 +25,5 @@ int main()
     fobj.funcA();
     fobj.funcA(4);
     fobj.funcA(6.5);
-
     return 0;
-} 
+}
